@@ -4,3 +4,5 @@ transformers
 sentencepiece
 peft
 pyarrow==15.0.0
+torch
+torchvision
