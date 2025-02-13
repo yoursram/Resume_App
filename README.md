@@ -61,6 +61,6 @@ pip install -r requirements.txt
 To start the Streamlit app, run:
 ```sh
 streamlit run app.py
-
+```
 
 [App Link](https://techresumeapp.streamlit.app/)
