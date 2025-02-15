@@ -56,7 +56,7 @@ st.title("Resume Feedback Generator")
 st.write("Enter your resume and custom instructions below:")
 
 # Input fields
-resume = st.text_area("Resume:", height=200)
+resume = st.text_area("Resume:", height=100)
 instruction = st.text_input("Custom Instruction:")
 
 if st.button("Get Feedback"):
