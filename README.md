@@ -68,7 +68,7 @@ streamlit run app.py
 
 # Deploying a Streamlit App
 
-1. Go to [Streamlit Community Cloud] (https://streamlit.io/cloud).
+1. Go to [Streamlit Community Cloud](https://streamlit.io/cloud).
 2. Sign in with GitHub.
 3. Click "New App" → Select your repository.
 4. Set:
